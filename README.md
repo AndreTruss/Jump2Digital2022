@@ -18,11 +18,11 @@ Para que el proyecto funcione tenemos que instalar previamente:
 - [Node.js y npm](https://nodejs.org/es/)
 - [Postman](https://www.postman.com/)
 
-Podemos clonar el proyecto del siguiente enlace:
+Clonar el proyecto:
 ```
     npm clone https://github.com/AndreTruss/Jump2Digital2022.git
 ```
-Una vez clonado el proyecto, ejecutar el siguiente comando para instalar los modulos:
+Ejecutar el siguiente comando para instalar los modulos:
 ```
     npm install
 ```
