@@ -1,0 +1,70 @@
+{
+	"info": {
+		"_postman_id": "c4ab275e-3028-4ab0-b0c3-b1a35f055e36",
+		"name": "Jump2Digital2022",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "21668082"
+	},
+	"item": [
+		{
+			"name": "Company Size",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/company/size",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"company",
+						"size"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Company Founded",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/company/founded",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"company",
+						"founded"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Company Numbers",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/company/numbers",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"company",
+						"numbers"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

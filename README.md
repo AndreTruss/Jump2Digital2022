@@ -1,8 +1,10 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/andretruss/jump2digital2022/badge)](https://www.codefactor.io/repository/github/andretruss/jump2digital2022)
+
 # Jump2Digital 2022 | Backend
 
 ## About the project
 
-Task 1 => "Crear un base de datos (PostgreSQL, MySQL, Mongo, Firebase,etc) y guardar toda la lista de compañías utilizado siguiendo el esquema del JSON"
+Task 1 => "Crear un base de datos (PostgreSQL, MySQL, Mongo, Firebase,etc) y guardar toda la [lista de compañías](https://github.com/AndreTruss/Jump2Digital2022/src/database/companies.json) utilizado siguiendo el esquema del JSON"
 
 Task 2 => "Crear un endpoint que devuelva las compañías ordenadas por tamaño"
 
@@ -11,6 +13,10 @@ Task 3 => "Crear un endpoint que devuelva las compañías ordenadas por fecha de
 Task 4 => "Crear un endpoint que devuelva los siguientes datos: Número de empresas que hay en cada industria, Número de empresas que hay por cada rango de tamaños, Número de empresas que hay en cada año de creación"
 
 ## Instalación
+
+Para que el proyecto funcione tenemos que instalar previamente: 
+- [Node.js y npm](https://nodejs.org/es/)
+- [Postman](https://www.postman.com/)
 
 Podemos clonar el proyecto del siguiente enlace:
 ```
@@ -36,6 +42,8 @@ npm run dev
 
 
 ## Rutas
+
+[Collección Postman](https://github.com/AndreTruss/Jump2Digital2022/POSTMAN)
 
 _Obtener compañías ordenadas por tamaño - GET_
 ```
