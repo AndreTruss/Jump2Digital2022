@@ -1,6 +1,5 @@
 const mongoose = require( 'mongoose' );
-// const { MONGODB_URI } = require( '../config/config' );
-const MONGODB_URI = "mongodb+srv://AndreTruss:bpbUGW0U6Gxl8kOE@cluster0.lnihe.mongodb.net/jump2digital?retryWrites=true&w=majority"
+const MONGODB_URI = 'mongodb://localhost:27017/Jump2Digital'
 
 module.exports.connectDB = async() => {
     try {
