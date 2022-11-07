@@ -4,7 +4,7 @@
 
 ## About the project
 
-Task 1 => "Crear un base de datos (PostgreSQL, MySQL, Mongo, Firebase,etc) y guardar toda la [lista de compañías](https://github.com/AndreTruss/Jump2Digital2022/src/database/companies.json) utilizado siguiendo el esquema del JSON"
+Task 1 => "Crear un base de datos (PostgreSQL, MySQL, Mongo, Firebase,etc) y guardar toda la [LISTA de compañías](https://github.com/AndreTruss/Jump2Digital2022/tree/main/src/database/companies.json) utilizado siguiendo el esquema del JSON"
 
 Task 2 => "Crear un endpoint que devuelva las compañías ordenadas por tamaño"
 
@@ -43,7 +43,7 @@ npm run dev
 
 ## Rutas
 
-[Collección Postman](https://github.com/AndreTruss/Jump2Digital2022/POSTMAN)
+[Collección POSTMAN](https://github.com/AndreTruss/Jump2Digital2022/tree/main/POSTMAN)
 
 _Obtener compañías ordenadas por tamaño - GET_
 ```
